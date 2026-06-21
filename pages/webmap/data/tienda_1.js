@@ -1,0 +1,1 @@
+var json_tienda_1 = {"type":"FeatureCollection","name":"tienda_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"nombre":"Extranca de Senkata","tipo":"Tienda de repuestos"},"geometry":{"type":"Point","coordinates":[-68.184845733649297,-16.582301382544752]}}]}
